@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
+
+
 long int c[1000][1000];
+
 int max(long int a, long int b)
 {
 	if(a>b)
