@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 //just for testing purpose
+//another line is added for testing purpose.
 int KMP_int(char *string)
 {
 	int len = strlen(string);
