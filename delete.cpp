@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-
+//when your head is one the pillow and the day is almost done count Allah's name count them one by one.
 long int c[1000][1000];
 
 int max(long int a, long int b)
