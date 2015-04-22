@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 This is also another line which is added from pc
+=======
+//this line is added at the same time when branch code was committed
+This file has been modified from server.Someone modified this on 220415 at 0610PM
+>>>>>>> 877d6a6172709f6a5ce2633435f7ce5339a0fa82
 Hi this is a sample file
 
 This is another line that was added later

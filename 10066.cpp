@@ -1,9 +1,17 @@
 #include<iostream>
 using namespace std;
+<<<<<<< HEAD
 //This line is added from home pc just right now
+=======
+//this line is adde in list2 at 1235PM
+//line is added for list1 at12.33PM 
+//line addded for list branch on 220415 at 1220pm 
+//line added from 22-04-15
+>>>>>>> 877d6a6172709f6a5ce2633435f7ce5339a0fa82
 //This line has been added for branch four
 //This has been changed in branch not in master
 //This comment has been added for branch three
+//this line is added on 220415 at 1210pm
 long int c[1000][1000];
 
 int max(long int a, long int b)
