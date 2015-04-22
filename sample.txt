@@ -1,3 +1,4 @@
+This line has been added from local branch
 Hi this is a sample file
 
 This is another line that was added later
