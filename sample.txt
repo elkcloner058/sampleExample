@@ -1,4 +1,5 @@
 This line has been added from local branch
+This line has been added from server branch
 Hi this is a sample file
 
 This is another line that was added later
